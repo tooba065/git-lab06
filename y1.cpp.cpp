@@ -6,8 +6,8 @@ int main() {
     int num;
     cout << "Enter a code: ";
     cin >> code;
-    cout <<"Enter num" <<endl;
-    cin >>num;
+     cout <<"Enter a numner:";
+     cin >> num;
     int originalCode = code;
     int divisor = 1;
     int digitCount = 0; 
@@ -53,6 +53,7 @@ int main() {
         divisor = divisor / 10;
     }
     cout << "\nNumber of digits spoken: " << digitCount << endl;
+    cout <<"Enter num:" <<num <<endl;
 
     return 0;
 }
