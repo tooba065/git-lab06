@@ -3,9 +3,11 @@ using namespace std;
 
 int main() {
     int code;
+    int num;
     cout << "Enter a code: ";
     cin >> code;
-
+    cout <<"Enter num" <<endl;
+    cin >>num;
     int originalCode = code;
     int divisor = 1;
     int digitCount = 0; 
