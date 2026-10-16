@@ -3,7 +3,7 @@ Switch and while loop
 purpose:
 switching choice when some conditions are given
 how to run:
-by compilation
+by compilation and then run
 Input: num = 3 and code = 50704
 and number of digits spoken
 Output: 3 and Five zero seven zero four and 5
